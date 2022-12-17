@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kareenagauri
 - 👀 I’m interested in Web development & working on innovative ideas.
-- 😃 About me : I am Ambitious and driven. love to be organized and a quick learner.
+- 😃 About me : I am Ambitious and driven. love to be organized & a quick learner.
 - 🌱 I’m currently learning App development & DSA
 - 📫 How to reach me ? just ping me here! : https://www.linkedin.com/in/kareena19/
 
